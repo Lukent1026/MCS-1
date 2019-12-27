@@ -9,8 +9,8 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(17,GPIO.OUT)
 # change this to the values from MCS web console
 DEVICE_INFO = {
-    'device_id' : 'DMtJZwJF',
-    'device_key' : '90rgqH0uAQjGWxHJ'
+    'device_id' : 'D0f4joiA',
+    'device_key' : '2rJCUUbDz2rxZB4D'
 }
 
 # change 'INFO' to 'WARNING' to filter info messages
